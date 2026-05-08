@@ -9,13 +9,13 @@ Flow 3: Running a Code Quality Analysis and Reviewing Results
 Contents
 1. QodanaCloud_TestCases.pdf
 
--Descriptions of the selected user flows
--Test cases in table format
--Notes and suggestions based on real product usage
+- Descriptions of the selected user flows
+- Test cases in table format
+- Notes and suggestions based on real product usage
 
 2. qodana_code_quality.yml
 
--Configuration file for Qodana code quality checks.
+- Configuration file for Qodana code quality checks.
 
 3. qodana.yml
 
